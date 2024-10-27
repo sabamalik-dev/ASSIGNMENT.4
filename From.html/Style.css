@@ -1,0 +1,68 @@
+h1{
+    color:brown;
+}
+  .para{
+    color:blueviolet
+  }
+  #list{
+    color:blue
+  }  
+    li>a{
+        color:plum
+    }
+    h2{
+        color: blue;
+    }
+    .text{
+        color: aqua;
+    }
+    #about{
+        color: gray;
+    }
+    ul>li{
+        color:goldenrod ;
+    }
+    .ab{
+      color:palevioletred
+    }
+    tr>th{
+      color:red
+    }
+    tr>td{
+      color:teal
+
+    }
+    .cd{
+      color:green
+    }
+    .cd{
+      color:green
+    }
+    #fa{
+      color: lightcoral
+    }
+    #ma{
+      color:gold ;
+    }
+    .thanks{
+      color: blueviolet;
+    }
+    .sab{
+      color:brown
+    }
+    .malik{
+      color:green;
+      background-color: plum;
+    }
+    
+
+
+
+
+
+
+
+
+
+
+
